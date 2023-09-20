@@ -7,7 +7,7 @@ to make it more accessible to people with disabilities and/or screen readers.
 I am following ADA and WCAG standards.
 
 ## Screenshot
-
+![Alt text](<Site Screenshot.jpg>)
 
 ## Usage
 Link to the website: https://alliestewart.github.io/challenge-1/
