@@ -18,7 +18,7 @@ Link to the website: https://alliestewart.github.io/challenge-1/
 ## Credits
 Made by Allie Stewart.
 
-I looked into https://www.w3schools.com/html/default.asp and 
+I looked into https://www.w3schools.com/html/html5_semantic_elements.asp and 
 https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML for 
 further assistance on creating accessibility-friendly and semantic coding practices.
 
